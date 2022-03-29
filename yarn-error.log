@@ -8,13 +8,13 @@ Yarn version:
   1.22.17
 
 Node version: 
-  17.8.0
+  17.7.2
 
 Platform: 
-  android arm
+  android arm64
 
 Trace: 
-  Error: EPERM: operation not permitted, symlink '../../../../pino/bin.js' -> '/storage/emulated/0/Sanzymdv4/node_modules/@adiwajshing/baileys/node_modules/.bin/pino'
+  Error: EPERM: operation not permitted, symlink '../../../../pino/bin.js' -> '/storage/emulated/0/SanzyMDV4/node_modules/@adiwajshing/baileys/node_modules/.bin/pino'
 
 npm manifest: 
   {
